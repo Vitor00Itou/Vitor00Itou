@@ -10,7 +10,7 @@ Computer Engineering student at UFPB (Brazil), double degree in Aviation Systems
 ### Core Skills & Languages
 * **Programming:** C, C++17, Python, Java, Assembly (x86/PIC), Bash, OCaml
 * **Frameworks & Tools:** Linux (AlmaLinux/Ubuntu), OpenCV, PyTorch, YOLO, JavaFX, OpenGL, Git, Docker
-* **Languages:** Portuguese (Native) | English (Fluent) | French (Intermediate / B2)
+* **Languages:** Portuguese (Native) | English (Fluent) | French (Fluent)
 
 ### Contact
 * **LinkedIn:** [linkedin.com/in/andrevitorbrito](https://www.linkedin.com/in/andrevitorbrito)
