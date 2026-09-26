@@ -13,7 +13,7 @@ Computer Engineering student at UFPB (Brazil), double degree in Aviation Systems
 * **Languages:** Portuguese (Native) | English (Fluent) | French (Fluent)
 
 ### Contact
-* **LinkedIn:** [linkedin.com/in/andrevitorbrito](https://www.linkedin.com/in/andrevitorbrito)
+* **LinkedIn:** [linkedin.com/in/andrevobrito](https://www.linkedin.com/in/andrevobrito)
 * **Email:** [vitor7654321@hotmail.com.br](mailto:vitor7654321@hotmail.com.br)
 
 
